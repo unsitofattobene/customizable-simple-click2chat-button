@@ -1,0 +1,49 @@
+=== Customizable Simple Click2Chat Button ===
+Autore: Viola Niccolai
+Sito web: https://www.unsitofattobene.it
+Richiede almeno: WordPress 5.2
+Testato fino a: WordPress 6.9
+Richiede PHP: 7.2
+Versione: 1.0
+Licenza: GPLv2 o successiva
+Licenza URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Aggiunge un bottone WhatsApp animato in linea con il tuo brand. Colori, posizione, visibilità e messaggio precompilato personalizzabili.
+
+== Descrizione ==
+
+"Customizable Simple Click2Chat Button" aggiunge un'icona chat flottante al tuo sito, permettendo ai visitatori di contattarti con un solo click.
+
+**Caratteristiche:**
+
+* Colori completamente personalizzabili (nuvoletta, cornetta e anello — indipendenti)
+* Messaggio precompilato configurabile
+* Posizione regolabile (alto/basso, destra/sinistra) con offset in pixel
+* Dimensione icona personalizzabile
+* Visibilità per dispositivo (desktop, tablet, mobile)
+* Anteprima live nel pannello di amministrazione
+* Zero JavaScript nel frontend — solo HTML e CSS
+* SVG inline per prestazioni ottimali
+* Pronto per la traduzione, con traduzione italiana inclusa
+
+== Installazione ==
+
+1. Carica la cartella del plugin nella directory `/wp-content/plugins/`
+2. Attiva il plugin dal menu "Plugin" di WordPress
+3. Vai su "Click2Chat" nel menu di amministrazione
+4. Inserisci il tuo numero di telefono con prefisso internazionale (es. 39333123456)
+5. Personalizza colori, posizione e visibilità
+
+== Domande Frequenti ==
+
+= Come inserisco il numero di telefono? =
+
+Inserisci il numero completo con prefisso internazionale, senza spazi, trattini o segno +. Ad esempio: 39333123456.
+
+= Posso personalizzare il messaggio che appare nella chat? =
+
+Sì, nel campo "Messaggio precompilato" puoi scrivere il testo che verrà automaticamente inserito nella chat del visitatore.
+
+= Il plugin rallenta il sito? =
+
+No. Il plugin non carica JavaScript nel frontend, non fa richieste HTTP aggiuntive e utilizza un SVG inline. L'impatto sulle prestazioni è praticamente nullo.

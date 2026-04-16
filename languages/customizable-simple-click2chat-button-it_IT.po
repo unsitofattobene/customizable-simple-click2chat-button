@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Customizable Simple Click2Chat Button 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-03 00:00+0000\n"
+"PO-Revision-Date: 2026-04-03 00:00+0000\n"
+"Last-Translator: Viola Niccolai\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Customizable Simple Click2Chat Button"
+msgstr "Pulsante Click2Chat Semplice e Personalizzabile"
+
+msgid "Add a WhatsApp animated button that matches your brand. Customizable colors, position, visibility and pre-filled message"
+msgstr "Aggiunge un bottone WhatsApp animato in linea con il tuo brand. Colori, posizione, visibilità e messaggio precompilato personalizzabili"
+
+msgid "WhatsApp Settings"
+msgstr "Impostazioni WhatsApp"
+
+msgid "WhatsApp Button Settings"
+msgstr "Impostazioni Pulsante WhatsApp"
+
+msgid "Basic Configuration"
+msgstr "Configurazione Base"
+
+msgid "Phone number"
+msgstr "Numero di telefono"
+
+msgid "Enter the full number with international prefix (e.g. 39333123456)"
+msgstr "Inserisci il numero completo con prefisso internazionale (es. 39333123456)"
+
+msgid "Pre-filled message"
+msgstr "Messaggio precompilato"
+
+msgid "Hi, I would like more information..."
+msgstr "Ciao, vorrei avere maggiori informazioni..."
+
+msgid "This message will be pre-filled in the customer's WhatsApp chat (leave empty for no message)"
+msgstr "Questo messaggio verrà precompilato nella chat WhatsApp del cliente (lascia vuoto per nessun messaggio)"
+
+msgid "Icon Colors"
+msgstr "Colori Icona"
+
+msgid "Bubble color"
+msgstr "Colore nuvoletta"
+
+msgid "Background bubble color (default: #46c254)"
+msgstr "Colore della nuvoletta di sfondo (default: #46c254)"
+
+msgid "Handset color"
+msgstr "Colore cornetta"
+
+msgid "Phone handset color (default: #ffffff)"
+msgstr "Colore della cornetta del telefono (default: #ffffff)"
+
+msgid "Ring color"
+msgstr "Colore anello"
+
+msgid "Circular ring color (default: #ffffff)"
+msgstr "Colore dell'anello circolare (default: #ffffff)"
+
+msgid "Position & Size"
+msgstr "Posizione e Dimensioni"
+
+msgid "Vertical position"
+msgstr "Posizione verticale"
+
+msgid "Bottom"
+msgstr "In basso"
+
+msgid "Top"
+msgstr "In alto"
+
+msgid "Vertical offset (px)"
+msgstr "Distanza verticale (px)"
+
+msgid "Distance from the top or bottom edge in pixels"
+msgstr "Distanza dal bordo superiore o inferiore in pixel"
+
+msgid "Horizontal position"
+msgstr "Posizione orizzontale"
+
+msgid "Right"
+msgstr "A destra"
+
+msgid "Left"
+msgstr "A sinistra"
+
+msgid "Horizontal offset (px)"
+msgstr "Distanza orizzontale (px)"
+
+msgid "Distance from the left or right edge in pixels"
+msgstr "Distanza dal bordo destro o sinistro in pixel"
+
+msgid "Icon size (px)"
+msgstr "Dimensione icona (px)"
+
+msgid "Icon size in pixels (recommended: 45px)"
+msgstr "Dimensione dell'icona in pixel (consigliato: 45px)"
+
+msgid "Device Visibility"
+msgstr "Visibilità per Dispositivo"
+
+msgid "Show on"
+msgstr "Mostra su"
+
+msgid "Desktop (above 1024px)"
+msgstr "Desktop (oltre 1024px)"
+
+msgid "Tablet (768px - 1024px)"
+msgstr "Tablet (768px - 1024px)"
+
+msgid "Mobile (up to 767px)"
+msgstr "Mobile (fino a 767px)"
+
+msgid "Select on which devices to show the WhatsApp button"
+msgstr "Seleziona su quali dispositivi vuoi mostrare il pulsante WhatsApp"
+
+msgid "Save Changes"
+msgstr "Salva Modifiche"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Customize"
+msgstr "Configura"
+
+msgid "Shadow color"
+msgstr "Colore ombra"
+
+msgid "Optional drop shadow behind the bubble (leave empty to disable)"
+msgstr "Ombra opzionale dietro la nuvoletta (lascia vuoto per disabilitare)"
+
+msgid "Enable shadow"
+msgstr "Abilita ombra"
+
+msgid "Dark background"
+msgstr "Sfondo scuro"
+
+msgid "The button will not be displayed on the site until a phone number is entered."
+msgstr "Il pulsante non verrà mostrato sul sito finché non verrà inserito un numero di telefono."
+
+msgid "If changes are not visible on the site after saving, please clear your browser and/or caching plugin cache."
+msgstr "Se le modifiche non sono visibili sul sito dopo il salvataggio, svuota la cache del browser e/o del plugin di cache."

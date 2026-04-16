@@ -1,0 +1,60 @@
+.wab-button {
+    position: fixed !important;
+    z-index: 9999 !important; 
+    visibility: visible !important;
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    box-sizing: border-box;
+    display: block !important;
+    cursor: pointer;
+    transition: transform 0.8s ease-in-out;
+}
+
+.wab-button .wab-svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.wab-button:hover {
+    transform: scale(1.05);
+}
+
+/* Animation icon-wa */
+.wab-button.hi-there {
+    animation: wab-bounce 8s linear infinite;
+    transform-origin: 50% 50%;
+    transition: scale 0.3s ease-in-out;
+}
+
+@keyframes wab-bounce {
+    0% {
+        transform: translateX(0) rotate(0);
+    }
+    17.5% {
+        transform: translateY(0) rotate(0);
+    }
+    42.5% {
+        transform: translateY(0) rotate(0);
+    }
+    44.5% {
+        transform: translateY(-2px) rotate(-17deg);
+    }
+    46.5% {
+        transform: translateY(-3px) rotate(17deg);
+    }
+    49% {
+        transform: translateY(-4px) rotate(-17deg);
+    }
+    50% {
+        transform: translateY(0) rotate(0);
+    }
+    100% {
+        transform: translateY(0) rotate(0);
+    }
+}
+
+.wab-button:hover.hi-there {
+    animation-play-state: paused;
+    scale: 1.05;
+}
